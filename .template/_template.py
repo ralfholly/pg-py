@@ -14,3 +14,6 @@ class _template(unittest.TestCase):
         print("Hello World!")
         # Your code here...
         pass
+
+if __name__ == '__main__':
+    unittest.main()
